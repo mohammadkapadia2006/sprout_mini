@@ -1,7 +1,12 @@
 # 🫧 Sprout Mini — Pop the Bubbles!
 
 A fun, interactive single-screen Flutter app built for children aged 3–5 years old.  
-Created as part of the **Sprout Early Stage Startup** mobile developer evaluation (Task 2).
+
+---
+
+## 📸 Demo
+
+> 🎥 [Watch Demo Video](https://drive.google.com/drive/folders/1ts_C2jEUhWeiYRKFZXBkQPmaCat1lhoc?usp=drive_link)
 
 ---
 
@@ -65,11 +70,6 @@ When the child wins, the background music volume jumps from 0.15 to 1.0 (full). 
 
 ---
 
-## 📸 Demo
-
-> 🎥 [Watch Demo Video](https://drive.google.com/drive/folders/1ts_C2jEUhWeiYRKFZXBkQPmaCat1lhoc?usp=drive_link)
-
----
 
 ## 👨‍💻 Author
 
